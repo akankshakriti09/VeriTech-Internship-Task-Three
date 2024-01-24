@@ -99,8 +99,8 @@ body{
     border-radius: 5px;
     cursor: pointer;
     pointer-events: none;
-    color: #fff;
-    background:	#E35335;
+    color: black;
+    background: #9c9c9c;
     border: none;
     outline: none;
     opacity: 0.5;
@@ -219,7 +219,7 @@ body{
 }
 
 .todoList::-webkit-scrollbar-thumb{
-    background: #1877f2;
+    background: #4a4d50;
     border-radius: 25px;
     border: 6px solid #fff;
 }
@@ -294,7 +294,6 @@ li:hover .action{
     font-size: 22px;
 }
 
-
 .footer{
     width: 100%;
     display: flex;
@@ -311,9 +310,9 @@ li:hover .action{
     outline: none;
     cursor: pointer;
     pointer-events: none;
-    background: #1877f2;
+    background: #9c9c9c;
     border-radius: 5px;
-    color: #fff;
+    color: black;
     opacity: 0.5;
 }
 
@@ -322,6 +321,6 @@ li:hover .action{
     pointer-events: auto;
 }
 
-.footer penTodos{
-    color:white;
+.pentask{
+    color: white;
 }
